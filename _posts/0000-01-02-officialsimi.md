@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+__Control__ is the *name* of the Game:sled:
 Use the left arrow to go back!
